@@ -79,12 +79,8 @@ The project is organized into the following components:
 
 ## Contributors
 
-- [Your Name]
-- [Teammate's Name]
-
-## Acknowledgments
-
-- Special thanks to [Instructor's Name] for providing guidance and support during the project.
+- Oluwabukunmi David Jaiyeola
+- Oluwatobi Akeju
 
 ## License
 
