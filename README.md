@@ -20,11 +20,7 @@ The project is organized into the following components:
 3. **data/ folder**: Placeholder for any data files or databases used by the system (if applicable).
 
 4. **doc/ folder**: Documentation files related to the project.
-   - `HighLevelDesign.pdf`: Document outlining the high-level design of the project.
-   - `ComplexityAnalysis.pdf`: Document providing runtime and space complexity analysis.
-   - `FinalReport.pdf`: Final report summarizing the implementation details, testing, and analysis.
-
-5. **out/ folder**: Placeholder for compiled bytecode or any build artifacts.
+   - `Pant_Info_*.csv`: Document for testing the code.
 
 ## Getting Started
 
@@ -71,11 +67,6 @@ The project is organized into the following components:
   - Deletion and insertion of products at different positions.
   - Measurement of time for each operation.
 
-### Bonus Problem (Optional)
-
-- Integration of a word suggester for handling user input errors during search.
-- Insertion of 1000 most common English words in the word list.
-- Suggestions for possible words during user input errors.
 
 ## Contributors
 
